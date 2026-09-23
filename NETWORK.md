@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI ROI Calculator
 
-**ai-roi-calculator** is part of the Zion Tech Group app network (630+ apps).
+Estimate payback, NPV and TCO of AI initiatives.
 
-- 🏗️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
+- Related: [roi-calculator](https://github.com/Zion-support/roi-calculator) · [zion-ai-roi-calculator](https://github.com/Zion-support/zion-ai-roi-calculator) · [ai-readiness-assessment](https://github.com/Zion-support/ai-readiness-assessment) · [zion-ai-pricing-optimizer](https://github.com/Zion-support/zion-ai-pricing-optimizer)
 
-## Related apps
-- [roi-calculator](https://github.com/Zion-support/roi-calculator) — AI ROI & TCO estimator
-- [meeting-cost-calculator](https://github.com/Zion-support/meeting-cost-calculator) — the real price of meetings
-- [it-staffing-calculator](https://github.com/Zion-support/it-staffing-calculator) — IT team sizing
-- [cloud-migration-calculator](https://github.com/Zion-support/cloud-migration-calculator) — migration TCO
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
